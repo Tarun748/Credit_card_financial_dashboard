@@ -18,7 +18,7 @@ credit card dashboard using sql and power bi
 **WoW change** 
 Revenue increased by 28.8%
 
-**Overview YTD**
+**Overview YTD(YEAR TO DAY)**
 * Overall revenue is 57M
 *Total interest is 8M 
 *Male customers are contributing more in revenue 31M, female 26M
