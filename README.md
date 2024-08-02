@@ -15,10 +15,10 @@ credit card dashboard using sql and power bi
 
 **Project Insights**- Week 53 (31st Dec) 
 
-**WoW change** 
+**WoW(Week On Week) change** 
 Revenue increased by 28.8%
 
-**Overview YTD(YEAR TO DAY)**
+**Overview YTD(Year To Date)**
 * Overall revenue is 57M
 *Total interest is 8M 
 *Male customers are contributing more in revenue 31M, female 26M
